@@ -1,11 +1,3 @@
-C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.csprojAssemblyReference.cache
-C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.csproj.CoreCompileInputs.cache
-C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.MvcApplicationPartsAssemblyInfo.cs
-C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.MvcApplicationPartsAssemblyInfo.cache
-C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.RazorAssemblyInfo.cache
-C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.RazorAssemblyInfo.cs
-C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.AssemblyInfoInputs.cache
-C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.AssemblyInfo.cs
 C:\projects\dotnet\demo_efcore\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\projects\dotnet\demo_efcore\bin\Debug\netcoreapp3.1\appsettings.json
 C:\projects\dotnet\demo_efcore\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -47,6 +39,16 @@ C:\projects\dotnet\demo_efcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logg
 C:\projects\dotnet\demo_efcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
 C:\projects\dotnet\demo_efcore\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
 C:\projects\dotnet\demo_efcore\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\projects\dotnet\demo_efcore\bin\Debug\netcoreapp3.1\Npgsql.dll
+C:\projects\dotnet\demo_efcore\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.csprojAssemblyReference.cache
+C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.csproj.CoreCompileInputs.cache
+C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.MvcApplicationPartsAssemblyInfo.cs
+C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.MvcApplicationPartsAssemblyInfo.cache
+C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.RazorAssemblyInfo.cache
+C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.RazorAssemblyInfo.cs
+C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.AssemblyInfoInputs.cache
+C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.AssemblyInfo.cs
 C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.TagHelpers.input.cache
 C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.TagHelpers.output.cache
 C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.RazorCoreGenerate.cache
@@ -68,5 +70,3 @@ C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\staticwebassets\demo_efco
 C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.dll
 C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.pdb
 C:\projects\dotnet\demo_efcore\obj\Debug\netcoreapp3.1\demo_efcore.genruntimeconfig.cache
-C:\projects\dotnet\demo_efcore\bin\Debug\netcoreapp3.1\Npgsql.dll
-C:\projects\dotnet\demo_efcore\bin\Debug\netcoreapp3.1\Npgsql.EntityFrameworkCore.PostgreSQL.dll

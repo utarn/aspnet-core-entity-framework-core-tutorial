@@ -12,6 +12,7 @@ namespace demo_efcore.Data
       public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
             : base(options)
       {
+
       }
    }
 }
