@@ -3,6 +3,7 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
     <UserSecretsId>aspnet-demo_efcore-0D4E6C41-37B4-480D-87E7-6BAF6E2B9450</UserSecretsId>
+    <Nullable>enable</Nullable>
   </PropertyGroup>
 
 
